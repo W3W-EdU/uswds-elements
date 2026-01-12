@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@uswds/uswds": "^3.11.0",
-    "lit": "^3.2.1",
+    "lit": "^3.3.1",
     "sass": "^1.83.1"
   },
   "devDependencies": {
