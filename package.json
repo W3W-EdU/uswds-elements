@@ -39,7 +39,7 @@
     "pages": "npm run storybook:build && cp -r storybook-static _site"
   },
   "dependencies": {
-    "@uswds/uswds": "^3.11.0",
+    "@uswds/uswds": "^3.13.0",
     "lit": "^3.2.1",
     "sass": "^1.83.1"
   },
